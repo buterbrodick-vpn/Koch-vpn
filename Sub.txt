@@ -1,4 +1,4 @@
-#profile-title: КОЧ ВПН🇰🇬
+#profile-title: ЖИРНОСТЬ ВПН🐷
 #profile-update-interval: 6
 
 vless://90a81f97-3eca-4d6a-a331-4bbf89599607@ge.alpacalounge.com:52080/?type=xhttp&encryption=none&flow=&path=xhttp&mode=packet-up&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=LimCBxhDbtyhtl7PpQTJtdvQ_QpKYjyv9Zkz1wDHQAo&sid=031b2424eead0c#Moscow%20%5BLTE%203%5D%20%F0%9F%87%B7%F0%9F%87%BA
